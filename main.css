@@ -13,8 +13,8 @@ body::-webkit-scrollbar {
 /* Body Header */
 #body-header {
     height: 65vh;
-    opacity: 0.8;
-    background-image: url(https://i.pinimg.com/564x/54/dd/2a/54dd2a6c17f894e233848e18eaa242d9.jpg);
+    opacity: 1.4;
+    background-image: url(https://images.unsplash.com/photo-1515643395264-3f8c19a2dc77?q=80&w=1831&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
